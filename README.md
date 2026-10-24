@@ -1,4 +1,11 @@
 # Spotify Desk Player
+```html
+<p align="center">
+  <img src="1000076952.jpg"
+       alt="Spotify Desk Player project demo"
+       width="650">
+</p>
+```
 
 I enjoy listening to music on Spotify, and I wanted to display the album cover, song name, and artist name on a small screen on my desk. So I built a Spotify Desk Player using an ESP32 and a TFT display.
 
