@@ -1,17 +1,7 @@
 # Spotify Desk Player
-
-with this **plain HTML, without the triple backticks**:
-
 <WritingBlock id="73518" variant="standard"><p align="center">
   <img src="1000076952.jpg" alt="Spotify Desk Player project demo" width="650">
 </p></WritingBlock>
-
-**3.** Click **Commit changes**, then refresh the README page.
-
-Your image should render instead of showing the code.
-
-If it still doesn't appear, click `1000076952.jpg` in the repository and verify that it opens. Since your image is in the repository root, the path above is correct.
-
 I enjoy listening to music on Spotify, and I wanted to display the album cover, song name, and artist name on a small screen on my desk. So I built a Spotify Desk Player using an ESP32 and a TFT display.
 
 The project connects a Python script running on my laptop to an ESP32, which displays the current music information and album artwork on the screen.
